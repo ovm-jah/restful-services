@@ -1,5 +1,9 @@
 {
-  "name": "John Doe",
-  "age": 30,
-  "email": "johndoe@example.com"
+  "isActive": true,
+  "userId": 101,
+  "name": "Jane Smith",
+  "email": "janesmith@example.com",
+  "loginAttempts": 3,
+  "subscriptionStatus": "active",
+  "accountType": "premium"
 }

@@ -1,9 +1,0 @@
-{
-  "isActive": true,
-  "userId": 101,
-  "name": "Jane Smith",
-  "email": "janesmith@example.com",
-  "loginAttempts": 3,
-  "subscriptionStatus": "active",
-  "accountType": "premium"
-}
