@@ -1,0 +1,12 @@
+{
+    "edad": 29,
+    "costo": 299.99,
+    "temperatura": -10.5,
+    "costoUnitario": 0.2,
+    "velocidadLuz": 1.23e11,
+    "velocidadLuz2": 1.23e+11,
+    "avogadro": 6.023E23,
+    "avogadro2": 6.023E+23,
+    "centésimaParte": 10e-3,
+    "décimaParte": 10E-2
+}

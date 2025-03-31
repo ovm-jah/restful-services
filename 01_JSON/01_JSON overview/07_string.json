@@ -1,0 +1,47 @@
+{
+    "example1": {
+      "code": "\\\"",
+      "description": "Comilla doble",
+      "example": "\"He said, \\\"Hello!\\\"\""
+    },
+    "example2": {
+      "code": "\\\\",
+      "description": "Barra invertida",
+      "example": "\"C:\\\\Users\\\\John\""
+    },
+    "example3": {
+      "code": "\\/",
+      "description": "Barra diagonal (slash)",
+      "example": "\"https:\\/\\/example.com\""
+    },
+    "example4": {
+      "code": "\\b",
+      "description": "Retroceso",
+      "example": "\"Hello\\bWorld\""
+    },
+    "example5": {
+      "code": "\\f",
+      "description": "Avance de página",
+      "example": "\"Page\\fBreak\""
+    },
+    "example6": {
+      "code": "\\n",
+      "description": "Nueva línea",
+      "example": "\"Line1\\nLine2\""
+    },
+    "example7": {
+      "code": "\\r",
+      "description": "Retorno de carro",
+      "example": "\"Hello\\rWorld\""
+    },
+    "example8": {
+      "code": "\\t",
+      "description": "Tabulación",
+      "example": "\"Name:\\tJohn\""
+    },
+    "example9": {
+      "code": "\\uXXXX",
+      "description": "Carácter Unicode representado en hexadecimal",
+      "example": "\"\\u263A\" → \"☺\""
+    }
+}
