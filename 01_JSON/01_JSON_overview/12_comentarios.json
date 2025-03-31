@@ -1,0 +1,26 @@
+[
+    {
+      "__comment": "Configuración del primer usuario",
+      "userId": 101,
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "settings": {
+        "__comment": "Preferencias de tema y notificaciones",
+        "theme": "dark",
+        "notifications": true,
+        "language": "es"
+      }
+    },
+    {
+      "__comment": "Configuración del segundo usuario",
+      "userId": 102,
+      "firstName": "John",
+      "lastName": "Doe",
+      "settings": {
+        "__comment": "Preferencias de tema y notificaciones",
+        "theme": "light",
+        "notifications": false,
+        "language": "en"
+      }
+    }
+]

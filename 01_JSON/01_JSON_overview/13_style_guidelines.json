@@ -1,0 +1,16 @@
+{
+    "firstName": "John",
+    "lastName": "Doe",
+    "emailAddress": "john.doe@example.com",
+    "createdAt": "2024-03-31T14:00:00Z",
+    "status": "ACTIVE",
+    "userType": "ADMIN_USER",
+    "location": {
+      "latitude": "40.748747",
+      "longitude": "-73.985547"
+    },
+    "officeLocation": {
+      "latitude": "-34.603722",
+      "longitude": "-58.381592"
+    }
+}  

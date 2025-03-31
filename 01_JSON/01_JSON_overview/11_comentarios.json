@@ -1,0 +1,27 @@
+{
+    "version": "1.0",
+    "description": "Este archivo JSON contiene configuraciones de usuario",
+    "users": [
+      {
+        "userId": 101,
+        "firstName": "Jane",
+        "lastName": "Smith",
+        "settings": {
+          "theme": "dark",
+          "notifications": true,
+          "language": "es"
+        }
+      },
+      {
+        "userId": 102,
+        "firstName": "John",
+        "lastName": "Doe",
+        "settings": {
+          "theme": "light",
+          "notifications": false,
+          "language": "en"
+        }
+      }
+    ]
+}
+  
