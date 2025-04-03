@@ -1,3 +1,7 @@
+/* El uso de toJSON() en un objeto puede ser útil en casos muy específicos, pero en la mayoría de las situaciones:
+        Se recomienda evitarlo para no perder la flexibilidad de JSON.stringify().
+        Es preferible usar replacer y space para modificar la salida sin perder la estructura del objeto. */
+
 var speaker = {
     firstName: 'Larson',
     lastName: 'Richard',

@@ -1,3 +1,6 @@
+/* Nunca uses eval() para analizar JSON, ya que puede ejecutar código malicioso y comprometer la seguridad de la aplicación.
+ Siempre usa JSON.parse(), que es seguro, rápido y confiable para convertir cadenas JSON en objetos JavaScript. */
+
 var x = '{ "sessionDate": "2014-10-06T13:30:00.000Z" }';
 
 // Deserialización con eval()

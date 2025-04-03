@@ -1,3 +1,6 @@
+/* La sintaxis de Objeto Literal es una excelente opción cuando solo necesitas un objeto único en tu aplicación. 
+  Sin embargo, si requieres crear múltiples instancias, puede ser mejor usar constructores o clases en JavaScript. */
+
 var speaker = {
     firstName: 'Larson',
     lastName: 'Richard',

@@ -1,3 +1,8 @@
+/* JSON.stringify() convierte valores JavaScript en una cadena JSON válida.
+    La función se aplica tanto a valores primitivos como a objetos y arreglos.
+    En la salida, las cadenas están rodeadas por comillas dobles "", los arreglos aparecen con [], y los objetos se representan con {}.
+    Este proceso de serialización es clave para enviar datos entre sistemas o almacenarlos en bases de datos o archivos. */
+
 var age = 39; // Número entero
 console.log('age = ' + JSON.stringify(age) + '\n');
 

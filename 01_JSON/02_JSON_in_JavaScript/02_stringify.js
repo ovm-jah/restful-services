@@ -1,3 +1,8 @@
+/* El uso de JSON.stringify() con los parámetros replacer y space permite:
+    Mejorar la legibilidad del JSON con formato indentado.
+    Filtrar datos específicos antes de la serialización.
+    Controlar la estructura del JSON generado según nuestras necesidades. */
+
 var speaker = {
     firstName: 'Larson',
     lastName: 'Richard',

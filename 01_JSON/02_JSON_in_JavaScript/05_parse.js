@@ -1,3 +1,5 @@
+// Usa JSON.parse() para deserializar JSON de forma segura y eficiente
+
 var json = '{' +  // Cadena JSON en múltiples líneas
 '"firstName": "Larson",' +
 '"lastName": "Richard",' +
